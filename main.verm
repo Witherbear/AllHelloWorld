@@ -1,0 +1,5 @@
+import System
+
+func main() {
+    println("Hello World!")
+}
